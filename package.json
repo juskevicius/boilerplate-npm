@@ -1,5 +1,6 @@
 {
 	"author": "juskevicius",
+	"description": "studying npm and texting its capabilities",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
