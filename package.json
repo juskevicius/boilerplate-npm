@@ -1,6 +1,7 @@
 {
 	"author": "juskevicius",
 	"description": "studying npm and texting its capabilities",
+	"keywords": ["freecodecamp", "testing"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
